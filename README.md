@@ -28,7 +28,7 @@ This makes Roblox Http requests more complete by adding support for the followin
 - Click view and copy the URL.
 - Click manage app and go to `Settings > Reveal Config Vars` and copy the ACCESS_KEY.
 
-That's it.
+That's it. 
 
 (Setting up without heroku is simple: run `node server.js` with the environment variables specified [here](/app.json))
 
